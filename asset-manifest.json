@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CCiReact/static/css/main.f855e6bc.css",
+    "main.js": "/CCiReact/static/js/main.b3f7d618.js",
+    "static/js/488.9c92ff38.chunk.js": "/CCiReact/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/CCiReact/index.html",
+    "main.f855e6bc.css.map": "/CCiReact/static/css/main.f855e6bc.css.map",
+    "main.b3f7d618.js.map": "/CCiReact/static/js/main.b3f7d618.js.map",
+    "488.9c92ff38.chunk.js.map": "/CCiReact/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b3f7d618.js"
+  ]
+}
